@@ -1,0 +1,121 @@
+{
+  "testimonials": [
+    {
+      "name": "Aditya Sharma",
+      "role": "Software Engineer @ TCS",
+      "stars": 5,
+      "text": "Mukund is an incredibly talented developer with a sharp eye for detail. His AI projects and clean code quality stood out. Highly recommend connecting with him!"
+    },
+    {
+      "name": "Priya Desai",
+      "role": "ML Intern @ Infosys",
+      "stars": 5,
+      "text": "I read Mukund's blog posts on Gemini API and Vertex AI — extremely well-written and insightful. He explains complex concepts in a very accessible way."
+    },
+    {
+      "name": "Rahul Patil",
+      "role": "Full Stack Developer",
+      "stars": 5,
+      "text": "Worked alongside Mukund on a college project. His problem-solving skills and ability to learn new technologies quickly is impressive. A great team player!"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Portfolio Website",
+      "description": "Designed and developed a modern, responsive portfolio using HTML5, CSS3, JavaScript, and Tailwind CSS. Integrated EmailJS for contact form functionality, Cloudflare for CDN & security, and GitHub Pages for hosting.",
+      "github_link": "https://github.com/mukund-ahire/Portfolio-Website"
+    },
+    {
+      "title": "Library Management System",
+      "description": "Built a Java-based library management system with MySQL database integration for efficient book tracking, member management, and transaction logging. Features include book search, issue/return records, and user authentication.",
+      "github_link": "https://github.com/mukund-ahire/Library-Management-System"
+    },
+    {
+      "title": "Time Loop Game with Amazon-Q-CLI",
+      "description": "Developed a 2D puzzle platformer in Pygame featuring a unique time-loop mechanic where players interact with recordings of their past selves. Includes precise action syncing, modular architecture, and debugging tools enhanced by Amazon Q CLI.",
+      "github_link": "#"
+    },
+    {
+      "title": "House Price Prediction Model",
+      "description": "Built a machine learning model to predict house prices, implementing an end-to-end pipeline from data cleaning and EDA to feature engineering. Applied regression algorithms and evaluated performance using MAE and R² metrics.",
+      "github_link": "https://github.com/mukund-ahire/House-Price-Prediction"
+    }
+  ],
+  "skills": [
+    {
+      "category": "Languages",
+      "items": [
+        { "name": "Java", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" },
+        { "name": "Python", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" },
+        { "name": "JavaScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" },
+        { "name": "HTML", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" },
+        { "name": "CSS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" }
+      ]
+    },
+    {
+      "category": "Frameworks & Libraries",
+      "items": [
+        { "name": "React", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" },
+        { "name": "Tailwind CSS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" }
+      ]
+    },
+    {
+      "category": "Databases & Tools",
+      "items": [
+        { "name": "MySQL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" },
+        { "name": "MongoDB", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" },
+        { "name": "Git", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" },
+        { "name": "GitHub", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" },
+        { "name": "Postman", "icon": "https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" },
+        { "name": "IntelliJ IDEA", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" }
+      ]
+    },
+    {
+      "category": "Technical Concepts",
+      "items": [
+        { "name": "Core Java", "icon": "" },
+        { "name": "Data Structures & Algorithms", "icon": "" },
+        { "name": "OOPS", "icon": "" },
+        { "name": "DBMS", "icon": "" },
+        { "name": "Machine Learning", "icon": "" }
+      ]
+    }
+  ],
+  "blog": [
+    {
+      "title": "From Curiosity to Capability: My Journey Through Google Cloud’s Gen AI Academy",
+      "description": "A recap of my hands-on learning experience with cutting-edge generative AI tools on Google Cloud.",
+      "link": "https://medium.com/@mukundahire.work/from-curiosity-to-capability-my-journey-through-google-clouds-gen-ai-academy-17de7fc9f6ad"
+    },
+    {
+      "title": "Building a Time Loop Puzzle Game with Python + Amazon Q CLI",
+      "description": "How I used AI and Python to design a replay-based puzzle game from concept to code.",
+      "link": "https://medium.com/@mukundahire.work/building-a-time-loop-puzzle-game-with-python-amazon-q-cli-8ac6895bf32f"
+    },
+    {
+      "title": "Exploring Generative AI with the Gemini API in Vertex AI",
+      "description": "Diving into the powerful capabilities of the Gemini API for generative AI tasks on Google Cloud.",
+      "link": "https://medium.com/@mukundahire.work/exploring-generative-ai-with-the-gemini-api-in-vertex-ai-my-learning-journey-a35cf78d1635"
+    },
+    {
+      "title": "Inspecting Rich Documents with Gemini Multimodality and Multimodal RAG",
+      "description": "A look at using Gemini's multimodal features to analyze and understand complex documents.",
+      "link": "https://medium.com/@mukundahire.work/inspecting-rich-documents-with-gemini-multimodality-and-multimodal-rag-f4c864309b71"
+    },
+    {
+      "title": "Build GenAI-Powered Web Apps with Gemini and Streamlit",
+      "description": "A guide to creating interactive web applications powered by Gemini's AI, using the Streamlit framework.",
+      "link": "https://medium.com/@mukundahire.work/build-genai-powered-web-apps-with-gemini-and-streamlit-1b9731b7de3e"
+    },
+    {
+      "title": "Building Real-World AI Applications with Gemini and Imagen on Google Cloud",
+      "description": "Practical examples of developing applications with Gemini and Imagen on the Google Cloud platform.",
+      "link": "https://medium.com/@mukundahire.work/building-real-world-ai-applications-with-gemini-and-imagen-on-google-cloud-e94f65171fa2"
+    },
+    {
+      "title": "Mastering Prompt Design with Vertex AI: My Learning Journey",
+      "description": "Insights and key takeaways from learning advanced prompt engineering techniques with Vertex AI.",
+      "link": "https://medium.com/@mukundahire.work/mastering-prompt-design-with-vertex-ai-my-learning-journey-into-generative-ai-a7bdf3da6173"
+    }
+  ]
+}
